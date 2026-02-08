@@ -22,6 +22,6 @@ High Performance: Ultra-fast loading since there is no JavaScript to execute.
 
 📂 Project Structure
 ⚙️ How to View
-Clone the repo: git clone https://github.com/your-username/repo-name.git
+Clone the repo: git clone https://github.com/ayushii0609/LandingPage
 
 Open index.html in any browser.
